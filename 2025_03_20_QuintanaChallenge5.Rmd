@@ -3,13 +3,13 @@ title: "Coding Challenge 5"
 author: "Theresa Quintana"
 date: "2025-03-20"
 output:
+  pdf_document:
   md_document:
       variant: gfm
-  word_document:
   html_document:
     toc: true
     toc_float: true
-  pdf_document:
+  word_document:
 ---
 You can find the corresponding documents to this assignment on my GitHub: 
 [Theresa's Coding Challenge 5 Github Access](https://github.com/taq-poly/CodingChallenge5.git)
